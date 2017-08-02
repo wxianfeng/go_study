@@ -1,6 +1,6 @@
 package main
 
-import "../lesson2/config"
+import "go_study/lesson2/config"
 
 func main() {
 	config.Host()
