@@ -42,14 +42,12 @@ git clone git@github.com:wxianfeng/go_study.git
 All commands Run at project root, At `/data/golang_projects/src/go_study`
 
 ### lesson 1: Hello World
-hello world
 
 ```
 go run lesson1/hello_world.go
 ```
 
 ### lesson 2: package and import
-package and import study
 
 ```
 go run lesson2/bar.go
@@ -69,6 +67,8 @@ struct
 
 ### TODO: lesson 7: OO
 OO
+
+### TODO: lesson 8: pointer
 
 ### TODO: lesson 8: interface
 interface
